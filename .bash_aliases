@@ -1,4 +1,4 @@
-  # Aliases for archives
+# Aliases for archives
     alias mktar='tar -cvf'
     alias mkbz2='tar -cvjf'
     alias mkgz='tar -cvzf'

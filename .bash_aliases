@@ -5,7 +5,7 @@
     alias untar='tar -xvf'
     alias unbz2='tar -xvjf'
     alias ungz='tar -xvzf'
-# Aliases that makeide a litrl easier 
+# Aliases that make life a little easier 
     alias ls='ls --color=auto'
     alias dir='dir --color=auto'                                                             alias vdir='vdir --color=auto'
     alias grep='grep --color=auto'
